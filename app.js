@@ -46,7 +46,7 @@ function gameOn(e) {
     selectSection.classList.remove("rotate");
   }, 700); 
 
-  setTimeout(computer, 1600); 
+  setTimeout(computer, 400); 
 
   
   function computer() {
